@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(186, 224, 210);
+    font-family: 'Times New Roman', Times, serif;,
+
+    
+}
+
+/* ID selector */
+#header{
+    color: rgb(211, 46, 46);
+    margin-left: 20px;
+    padding: 5px;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+}
+
+/* Class Selectors */
+.main-body{
+    color: rgb(175, 92, 92);
+    font-weight: bold;
+    padding: 10px;
+}
+
+.our-vision{
+    text-align: center;
+    font-style: italic;
+    margin-left: 50px;
+    color: rgb(26, 26, 196);
+    font-weight: lighter;
+}
+
+.news-update{
+    color:rgb(175, 92, 92);
+}
+
+.explore-us{
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(46, 49, 15);
+}
+
+.footer{
+    float: right;
+    font-size: large;
+    color: red;
+    font-size: larger;
+}
+
+/* Card styling */
+.card {
+  background-color: rgb(154, 203, 238);
+  margin: 20px;
+  margin-top: 55px;
+  padding: 20px;
+  border: 2px solid rgb(144, 202, 249);
+  border-radius: 8px;
+}
+
+/* Button styling */
+.action-button {
+  background-color: rgb(4, 27, 46);
+  color: rgb(228, 103, 103);
+  border: brown;
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.action-button:hover {
+  background-color: rgb(199, 192, 193);
+}
+
+
+/* Element Selectors */
+img{
+    float: right;
+    height: 500px;
+    width: 60%;
+    border: 2px solid black;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+nav{
+    text-align: left;
+    margin-top: 0%;
+   
+}
